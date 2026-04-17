@@ -15,9 +15,8 @@
 | Resource | Link |
 |---|---|
 | 📦 **Expo Snack** | [Buka di Expo Snack](https://snack.expo.dev/@eykel21/the-secure-guard) |
-| 💻 **GitHub Repository** | [github.com/username/secureguard-misi5](https://github.com/username/secureguard-misi5) |
+| 💻 **GitHub Repository** | [github.com/username/secureguard-misi5](https://github.com/eykelagitha/THE-SECURE-GUARD.git) |
 
-> ⚠️ Ganti `username` dengan username Expo Snack & GitHub kamu setelah upload.
 
 ---
 
@@ -32,7 +31,6 @@
 ### Screen 3 — Home
 ![Home Screen](./assets/screenshots/home.jpeg)
 
-> 💡 Jalankan app → screenshot tiap screen → simpan di `assets/screenshots/`
 
 ---
 
@@ -146,8 +144,8 @@ if (password !== confirmPassword) {
 ### Via VS Code + Lokal
 ```bash
 # Clone repo
-git clone https://github.com/username/secureguard-misi5.git
-cd secureguard-misi5
+git clone https://https://github.com/eykelagitha/THE-SECURE-GUARD.git
+cd thesecureguard
 
 # Install dependencies
 npm install
