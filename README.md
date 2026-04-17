@@ -14,7 +14,7 @@
 
 | Resource | Link |
 |---|---|
-| 📦 **Expo Snack** | [Buka di Expo Snack](https://snack.expo.dev/@username/secureguard) |
+| 📦 **Expo Snack** | [Buka di Expo Snack](https://snack.expo.dev/@eykel21/the-secure-guard) |
 | 💻 **GitHub Repository** | [github.com/username/secureguard-misi5](https://github.com/username/secureguard-misi5) |
 
 > ⚠️ Ganti `username` dengan username Expo Snack & GitHub kamu setelah upload.
